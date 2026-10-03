@@ -23,5 +23,6 @@ export default defineConfig({
   rules: {
     // "no-console": "error",
     // "dot-notation": "error",
+    '@typescript-eslint/no-misused-promises':'off',
   },
 });
